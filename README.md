@@ -37,7 +37,7 @@ INSTRUCTIONS-
 	There is also one dashboard which displays the stored URLs along with their icons corresponding to the slug value passed in the URL.
 	If a user is logged in, then he/she has the option to add new links from his/her dashboard page.
 	
-	https://drive.google.com/file/d/1glO9RgjN7awyOxM6jf8pSLfprMu9qVqI/view?usp=sharing
+	url(https://drive.google.com/file/d/1glO9RgjN7awyOxM6jf8pSLfprMu9qVqI/view?usp=sharing)
 COLLABORATORS:-
 	DIVY PRAJAPATI  - BACKEND  (server)
 	KSHITIJ RAJ     - FRONTEND (client)
